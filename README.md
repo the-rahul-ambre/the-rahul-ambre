@@ -1,9 +1,9 @@
-**👋 Hi, I'm Rahul**
+#👋 Hi, I'm Rahul
 🎯 Data Analyst Fresher | Turning Data into Business Insights
 
-📍 India
-📊 Passionate about Data Analysis, Visualization, and Dashboard Development
-💼 Actively seeking Data Analyst Opportunities
+-📍 India
+-📊 Passionate about Data Analysis, Visualization, and Dashboard Development
+-💼 Actively seeking Data Analyst Opportunities
 
 **🛠️ Skills & Tools**
 **Languages & Query Tools**
